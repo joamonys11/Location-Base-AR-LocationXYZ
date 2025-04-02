@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9D0DC6F1-FCFC-6715-CA9B-B406059A6DB2}") = "locationbase", "Assembly-CSharp.csproj", "{B8EC51B8-4CDE-0865-AF5A-54AEADCE9C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EC51B8-4CDE-0865-AF5A-54AEADCE9C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EC51B8-4CDE-0865-AF5A-54AEADCE9C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EC51B8-4CDE-0865-AF5A-54AEADCE9C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EC51B8-4CDE-0865-AF5A-54AEADCE9C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
